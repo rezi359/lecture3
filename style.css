@@ -1,3 +1,30 @@
 h1 {
     color: red;
 }
+
+table,
+th,
+td {
+    border: 2px solid black;
+    /* border-collapse: collapse; */
+    border-spacing: 0px;
+}
+
+th {
+    border: 2px dashed black;
+
+    background-color: lightblue;
+}
+
+td {
+    background-color: lightcoral;
+}
+
+/* .name {
+    border: 2px solid red;
+}
+
+#Rezi {
+    color: blue;
+    background-color: red;
+} */
